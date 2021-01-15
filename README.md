@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:4thiagomelo5@gmail.com)
 
 ![Thiago_Status](https://github-readme-stats.vercel.app/api?username=thiagomeloo&show_icons=true&theme=dark&hide_border=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomeloo&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomeloo&layout=compact&theme=dark&hide_border=true)](https://github.com/thiagomeloo)
 
 
 <!--
